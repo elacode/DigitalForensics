@@ -9,3 +9,6 @@ Links and tutorials to digital forensics
 
 # Linux LEO
 * The Law Enforcement and Forensic Examiner's Introduction to Linux https://www.linuxleo.com/
+
+# Simsong Garfinkel
+* Courses with material https://simson.net/page/Courses

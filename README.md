@@ -7,3 +7,5 @@ Links and tutorials to digital forensics
 * Digital Forensics             https://www.nist.gov/programs-projects/digital-forensics
 * Computer Forensic Data Sets   https://cfreds.nist.gov/
 
+# Linux LEO
+* The Law Enforcement and Forensic Examiner's Introduction to Linux https://www.linuxleo.com/

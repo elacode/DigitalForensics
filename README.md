@@ -1,14 +1,11 @@
-# DigitalForensics
-Links and tutorials to digital forensics
+# Mac Forensics
 
-# N.I.S.T. Data Sets, Hashes and more
-* Forensic Science              https://www.nist.gov/forensic-science
-* RDS hash sets                 https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl/nsrl-download/current-rds
-* Digital Forensics             https://www.nist.gov/programs-projects/digital-forensics
-* Computer Forensic Data Sets   https://cfreds.nist.gov/
+## Required Textbooks, Link by Simsong Garfinkel [1]
+OSX Incident Response, by Jaron Bradley, Elsevier Syngress, 2016, ISBN 978-0-12-804456-8
+The Art of Memory Forensics, Michael Ligh, Andrew Case, Jamie Levy and Aaron Walters, Wiley, 2014, 978-1-118-82509-9
 
-# Linux LEO
-* The Law Enforcement and Forensic Examiner's Introduction to Linux https://www.linuxleo.com/
 
-# Simsong Garfinkel
-* Courses with material https://simson.net/page/Courses
+
+
+
+[1] https://docs.google.com/document/d/1WGHziqiTb_4OBo-LP8gwsAPPomRWBzisv2tNyxY5ICE/edit?usp=sharing
